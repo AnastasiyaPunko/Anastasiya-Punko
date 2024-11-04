@@ -36,8 +36,8 @@ September 16-28, 2024).<br>
 
 PUBLICATIONS<br>
 ‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
-Mishkova O., Punko A., Shman T. (2019) Natural Killer Cells in Immunotherapy of Hematological
-Malignancies in Children. Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
+Mishkova O., Punko A., Shman T. (2019) [Natural Killer Cells in Immunotherapy of Hematological
+Malignancies in Children.](PUBLICATIONS/Aleinikova_2019.pdf) Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
 ‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
 Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactured CAR-T cells in
 patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
