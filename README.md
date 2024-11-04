@@ -13,3 +13,32 @@ Introduction to Programming with Python”.<br>
 ‣ Winter school on Analytics and Data Science. Moscow, February 3-4, 2024.<br>
 ‣ [PKanalix® Summer School.](PKanalix.pdf) September 9-13, 2024.<br>
 ‣ [XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery](BCADD-2024-e-poster_Punko_A.jpg) Virtual, September 16-18, 2024.
+
+
+ABSTRACTS <br>
+‣ Punko A., Lavrinenko V., Mareiko Y. (2018) Influence Of The Underlying Disease On Сhimerism
+Dynamics After Allogeneic Hematopoietic Stem Cell Transplantation.Russian Journal Of Pediatric
+HematologyAnd Oncology. P: 123–124.<br>
+‣ Vashkevich E. P., Migas A. A., Matveyenko M.A., Savich Y., Punko A., Yermilova T. I., Tarasevich I.,
+Shman T., Aleinikova O. V. (2019) Experience in application of NK cells expanded in the presence of
+genetically modified line K-562. Russian Journal Of Pediatric HematologyAnd Oncology. P: 158.<br>
+‣ Punko A., Lavrinenko V. (2019) Comparison of chimerism in patients with aplastic anemia and
+primary immunodeficiencies after allogenic hemapoetic stem cell transplantation. 14th Bialystok
+International Medical Congress. P: 73.<br>
+‣ Irina E. Guryanova, Vladislav R. Vertelco, Silvia Berra, Chiara Suritti,Alexandr A. Migas, Ekaterina
+A. Polyakova, Andrei S. Babenka, Anastasiya V. Punko, Elena I. Lebedeva, Debora Parolin, Mikhail V.
+Belevtsev, Natalia E. Konoplya, Sonia Caccia (2020) Whole Exome Sequencing identified novel
+candidate genes associated with hereditary angioedema of unknown origin. 2020 HAE Virtual
+Global Conference. P: 9.<br>
+‣ Punko A., Volkova A. (2024) Mathematical modeling of CAR-T immunotherapy in multiple
+myeloma. XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery (Virtual,
+September 16-28, 2024).<br>
+
+PUBLICATIONS<br>
+‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
+Mishkova O., Punko A., Shman T. (2019) Natural Killer Cells in Immunotherapy of Hematological
+Malignancies in Children. Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
+‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
+Meleshko A., Konoplya N. (2021) The first experience of using locally manufactured CAR-T cells in
+patients with relapsed/refractory acute lymphoblastic leukemia in Belarus. Pediatric Hematology/
+Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
