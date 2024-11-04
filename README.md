@@ -39,6 +39,6 @@ PUBLICATIONS<br>
 Mishkova O., Punko A., Shman T. (2019) Natural Killer Cells in Immunotherapy of Hematological
 Malignancies in Children. Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
 ‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
-Meleshko A., Konoplya N. (2021) The first experience of using locally manufactured CAR-T cells in
-patients with relapsed/refractory acute lymphoblastic leukemia in Belarus. Pediatric Hematology/
+Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactured CAR-T cells in
+patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
