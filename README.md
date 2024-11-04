@@ -11,4 +11,5 @@ Introduction to Programming with Python” .]()<br>
 ‣ [School of Mathematical Modeling in Pharmaceutics.]() Moscow, December 5-9, 2022.<br>
 ‣ [Intensive course "Analysis of bacterial genomic variants".]() Moscow, February 24-26, 2023.<br>
 ‣ [Winter school on Analytics and Data Science.]() Moscow, February 3-4, 2024.<br>
-‣ [PKanalix® Summer School.]() September 9-13, 2024<br>
+‣ [PKanalix® Summer School.]() September 9-13, 2024.<br>
+‣ [XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery](BCADD-2024-e-poster_Punko_A.jpg) Virtual, September 16-18, 2024.
