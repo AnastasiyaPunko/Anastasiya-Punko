@@ -1,7 +1,6 @@
 Hi there! I’m Anastasiya <br>
 
-This is my Curriculum vitae:<br>
-[CV](CV_Punko.pdf) <br>
+This is my Curriculum vitae: [CV](CV_Punko.pdf) <br>
 
 PUBLICATIONS<br>
 ‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
