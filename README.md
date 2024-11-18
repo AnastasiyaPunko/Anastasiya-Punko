@@ -29,7 +29,7 @@ Global Conference. P: 9.<br>
 ‣ Punko A., Volkova A. (2024) Mathematical modeling of CAR-T immunotherapy in multiple
 myeloma. XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery (Virtual,
 September 16-28, 2024).<br>
-‣ Punko A., Volkova A. (2024) Optimizing The CAR T-cell Therapy In Multiple Myeloma: Insights From Mathematical Modeling. International scientific conference of young scientists «Science and Innovation»: collection of scientific papers. P: 57 – 58.  
+‣ Punko A., Volkova A. (2024) [Optimizing The CAR T-cell Therapy In Multiple Myeloma: Insights From Mathematical Modeling.](ABSTRACTS/InnoWeek2024.pdf) International scientific conference of young scientists «Science and Innovation»: collection of scientific papers. P: 57 – 58.  
 
 CERTIFICATES AND TRAINING <br>
 ‣ Training in EPAM “Introduction to Python” Minsk, 15 – 28 October, 2019.<br>
