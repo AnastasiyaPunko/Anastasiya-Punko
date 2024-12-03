@@ -2,7 +2,7 @@ Hi there! I’m Anastasiya <br>
 
 This is my Curriculum vitae: <br>
 <br>
-[CV](CV_Punko.pdf) <br>
+[Curriculum Vitae](CV_Punko.pdf) <br>
 <br>
 <br>
 PUBLICATIONS<br>
