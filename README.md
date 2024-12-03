@@ -1,11 +1,11 @@
 Hi there! I’m Anastasiya <br>
 
-This is my Curriculum vitae: <br>
+**This is my Curriculum vitae:** <br>
 <br>
 [Curriculum Vitae](CV_Punko.pdf) <br>
 <br>
 <br>
-PUBLICATIONS<br>
+**PUBLICATIONS**<br>
 ‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
 Mishkova O., Punko A., Shman T. (2019) [Natural Killer Cells in Immunotherapy of Hematological
 Malignancies in Children.](PUBLICATIONS/Aleinikova_2019.pdf) Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
@@ -14,7 +14,7 @@ Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactu
 patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
 
-ABSTRACTS <br>
+**ABSTRACTS** <br>
 ‣ Punko A., Lavrinenko V., Mareiko Y. (2018) Influence Of The Underlying Disease On Сhimerism
 Dynamics After Allogeneic Hematopoietic Stem Cell Transplantation.Russian Journal Of Pediatric
 HematologyAnd Oncology. P: 123–124.<br>
@@ -34,7 +34,7 @@ myeloma. XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery (Virt
 September 16-28, 2024).<br>
 ‣ Punko A., Volkova A. (2024) [Optimizing The CAR T-cell Therapy In Multiple Myeloma: Insights From Mathematical Modeling.](ABSTRACTS/InnoWeek2024.pdf) International scientific conference of young scientists «Science and Innovation»: collection of scientific papers. P: 57 – 58.  
 
-CERTIFICATES AND TRAINING <br>
+**CERTIFICATES AND TRAINING** <br>
 ‣ Training in EPAM “Introduction to Python” Minsk, 15 – 28 October, 2019.<br>
 ‣ 4th NGS Data Analysis School “MGNGS School'19” Moscow, 28 October – 1 November 2019.<br>
 ‣ Courses in STEPIK platform: “Introduction to Linux” , “Basics of Statistics”, “Introduction to NGS”.<br>
