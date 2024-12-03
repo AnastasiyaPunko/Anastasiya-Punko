@@ -1,7 +1,10 @@
 Hi there! I’m Anastasiya <br>
 
-This is my Curriculum vitae: [CV](CV_Punko.pdf) <br>
-
+This is my Curriculum vitae: <br>
+<br>
+[CV](CV_Punko.pdf) <br>
+<br>
+<br>
 PUBLICATIONS<br>
 ‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
 Mishkova O., Punko A., Shman T. (2019) [Natural Killer Cells in Immunotherapy of Hematological
