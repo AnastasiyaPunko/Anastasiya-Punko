@@ -1,10 +1,11 @@
 Hi there! I’m Anastasiya <br>
 
-# **This is my Curriculum vitae:** <br>
+#**This is my Curriculum vitae:** <br>
 <br>
 ## [Curriculum Vitae](CV_Punko_v2.pdf) <br>
 <br>
 <br>
+
 # **PUBLICATIONS**<br>
 ## 2019<br>
 ‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
