@@ -54,4 +54,7 @@ Introduction to Programming with Python”.<br>
 ### 2024<br>
 ‣ Winter school on Analytics and Data Science. Moscow, February 3-4, 2024.<br>
 ‣ [PKanalix® Summer School.](CERTIFICATES%20AND%20TRAINING/PKanalix.pdf) September 9-13, 2024.<br>
-‣ [XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery](CERTIFICATES%20AND%20TRAINING/BCADD-2024-e-poster_Punko_A.jpg) Virtual, September 16-18, 2024.
+‣ [XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery](CERTIFICATES%20AND%20TRAINING/BCADD-2024-e-poster_Punko_A.jpg) Virtual, September 16-18, 2024.<br>
+### 2025<br>
+‣ [Introduction to the Statistical Analysis of Genome-wide Association Studies](CERTIFICATES%20AND%20TRAINING/Surrey_GWAS.pdf) Virtual, January 27-31, 2025.<br>
+
