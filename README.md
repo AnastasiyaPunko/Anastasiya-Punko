@@ -25,8 +25,8 @@ HematologyAnd Oncology. P: 123–124.<br>
 ‣ Vashkevich E. P., Migas A. A., Matveyenko M.A., Savich Y., Punko A., Yermilova T. I., Tarasevich I.,
 Shman T., Aleinikova O. V. (2019) Experience in application of NK cells expanded in the presence of
 genetically modified line K-562. Russian Journal Of Pediatric HematologyAnd Oncology. P: 158.<br>
-‣ Punko A., Lavrinenko V. (2019) Comparison of chimerism in patients with aplastic anemia and
-primary immunodeficiencies after allogenic hemapoetic stem cell transplantation. 14th Bialystok
+‣ Punko A., Lavrinenko V. (2019) [Comparison of chimerism in patients with aplastic anemia and
+primary immunodeficiencies after allogenic hemapoetic stem cell transplantation.](ABSTRACTS/Bialystok.pdf) 14th Bialystok
 International Medical Congress. P: 73.<br>
 ### 2020<br>
 ‣ Irina E. Guryanova, Vladislav R. Vertelco, Silvia Berra, Chiara Suritti,Alexandr A. Migas, Ekaterina
