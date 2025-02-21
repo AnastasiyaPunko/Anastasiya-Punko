@@ -31,8 +31,8 @@ International Medical Congress. P: 73.<br>
 ### 2020<br>
 ‣ Irina E. Guryanova, Vladislav R. Vertelco, Silvia Berra, Chiara Suritti,Alexandr A. Migas, Ekaterina
 A. Polyakova, Andrei S. Babenka, Anastasiya V. Punko, Elena I. Lebedeva, Debora Parolin, Mikhail V.
-Belevtsev, Natalia E. Konoplya, Sonia Caccia (2020) Whole Exome Sequencing identified novel
-candidate genes associated with hereditary angioedema of unknown origin. 2020 HAE Virtual
+Belevtsev, Natalia E. Konoplya, Sonia Caccia (2020) [Whole Exome Sequencing identified novel
+candidate genes associated with hereditary angioedema of unknown origin.](ABSTRACTS/HAE.pdf) 2020 HAE Virtual
 Global Conference. P: 9.<br>
 ### 2024<br>
 ‣ Punko A., Volkova A. (2024) [Mathematical modeling of CAR-T immunotherapy in multiple
