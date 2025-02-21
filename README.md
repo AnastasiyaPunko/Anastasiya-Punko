@@ -35,8 +35,8 @@ Belevtsev, Natalia E. Konoplya, Sonia Caccia (2020) Whole Exome Sequencing ident
 candidate genes associated with hereditary angioedema of unknown origin. 2020 HAE Virtual
 Global Conference. P: 9.<br>
 ### 2024<br>
-‣ Punko A., Volkova A. (2024) Mathematical modeling of CAR-T immunotherapy in multiple
-myeloma. XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery (Virtual,
+‣ Punko A., Volkova A. (2024) [Mathematical modeling of CAR-T immunotherapy in multiple
+myeloma.](ABSTRACTS/BCADD2024-proceedings-book_Punko.pdf) XXX Symposium on Bioinformatics and Computer-Aided Drug Discovery (Virtual,
 September 16-28, 2024).<br>
 ‣ Punko A., Volkova A. (2024) [Optimizing The CAR T-cell Therapy In Multiple Myeloma: Insights From Mathematical Modeling.](ABSTRACTS/InnoWeek2024.pdf) International scientific conference of young scientists «Science and Innovation»: collection of scientific papers. P: 57 – 58.  
 
