@@ -31,3 +31,14 @@ September 16-28, 2024).<br>
 ‣ A. Punko, A. Abdurakhimov, Y. Kapralova, D. Zakirova, A. Rakhmatullayev,G. Esonova, X. Meylikov, A. Abdullaev, D. Dalimova, S. Turdikulova. (2025) [Identifying genetic variants associated with recurrent pregnancy loss in the Uzbek population.](ABSTRACTS/ESHG.pdf) ESHG Conference (In press). <br>
 ‣ A. Abdullaev, A. Punko, A. Rakhmatullayev, Z. Reyimbergenova, E. Tsay, V. Tsoy, D. Dalimova, S. Turdikulova. (2025) [Exploring the association between genetic variants and the risk of developing type 2 diabetes in Uzbekistan.](ABSTRACTS/ESHG2.pdf) ESHG Conference (In press). <br>
 ‣ D. Zakirova, F. Khonboev, D. Dalimova, G. Abdullaeva, F. Takhirova, A. Punko, N. Alikhanova, S. Turdikulova, A. Abdullaev. (2025) Identification of Type 2 Diabetes-Associated Polymorphisms in DOCK7, ABCG8, UBE2E2, and SYN2 Genes in the Uzbek Population. ESHG Conference (In press). <br>
+
+# **PUBLICATIONS**<br>
+### 2019<br>
+‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
+Mishkova O., Punko A., Shman T. (2019) [Natural Killer Cells in Immunotherapy of Hematological
+Malignancies in Children.](PUBLICATIONS/Aleinikova_2019.pdf) Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.<br>
+### 2021<br>
+‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
+Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactured CAR-T cells in
+patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
+Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
