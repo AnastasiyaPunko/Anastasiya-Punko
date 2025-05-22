@@ -1,6 +1,3 @@
-[Home](index.md) | [CV](cv.md) | [ABSTRACT](ABSTRACT.md) 
-
-
 ---
 layout: default
 title: Home
