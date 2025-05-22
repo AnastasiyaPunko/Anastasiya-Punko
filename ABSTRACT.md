@@ -111,3 +111,4 @@ Malignancies in Children.](PUBLICATIONS/Aleinikova_2019.pdf) Hematology. Transfu
 Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactured CAR-T cells in
 patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
+</div>
