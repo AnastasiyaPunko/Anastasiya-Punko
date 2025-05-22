@@ -4,18 +4,14 @@ title: Home
 ---
 
 <style>
-  
 :root {
   --primary: #002d72;
-  --secondary: #e1ecf4;
-  --accent: #fcb900;
   --background: #ffffff;
   --text: #222222;
-  --highlight: #d9edc2;
 }
 
 body {
-  background-color: var(--secondary);
+  background-color: #f8f9fb;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   color: var(--text);
@@ -24,23 +20,22 @@ body {
 }
 
 .nav {
-  background-color: var(--primary);
-  padding: 15px;
+  background-color: var(--background);
+  padding: 20px;
   text-align: center;
-  font-weight: bold;
-  border-bottom: 3px solid var(--accent);
-  border-radius: 0 0 12px 12px;
-}
-
-.nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 20px;
+  border-bottom: 1px solid #ddd;
   font-size: 18px;
 }
 
+.nav a {
+  color: var(--primary);
+  text-decoration: none;
+  margin: 0 16px;
+  font-weight: 500;
+}
+
 .nav a:hover {
-  color: var(--accent);
+  text-decoration: underline;
 }
 
 .main-content {
@@ -48,8 +43,7 @@ body {
   max-width: 800px;
   margin: 40px auto;
   background-color: var(--background);
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 8px;
 }
 
 h1, h2 {
