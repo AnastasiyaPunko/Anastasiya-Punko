@@ -1,49 +1,68 @@
+:root {
+  --primary: #002d72;        /* основной синий */
+  --secondary: #e1ecf4;      /* светлый фон */
+  --accent: #fcb900;         /* акцент: мягкий жёлтый */
+  --background: #ffffff;     /* основной фон */
+  --text: #222222;           /* тёмный текст */
+  --highlight: #d9edc2;      /* мягкий дополнительный */
+}
+
 body {
-  background: linear-gradient(to right, #e0f7fa, #ffffff);
+  background-color: var(--secondary);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   line-height: 1.6;
-  color: #333;
+  color: var(--text);
   margin: 0;
   padding: 0;
 }
 
 .nav {
-  background-color: #b2dfdb;
+  background-color: var(--primary);
   padding: 15px;
   text-align: center;
   font-weight: bold;
-  border-bottom: 2px solid #009688;
+  border-bottom: 3px solid var(--accent);
+  border-radius: 0 0 12px 12px;
 }
 
 .nav a {
-  color: #004d40;
+  color: white;
   text-decoration: none;
   margin: 0 20px;
   font-size: 18px;
 }
 
 .nav a:hover {
+  color: var(--accent);
   text-decoration: underline;
 }
 
 .main-content {
   padding: 40px;
   max-width: 800px;
-  margin: auto;
+  margin: 40px auto;
+  background-color: var(--background);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 h1 {
   font-size: 36px;
-  color: #00796b;
+  color: var(--primary);
   margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: var(--primary);
+  margin-top: 30px;
 }
 
 a {
-  color: #00695c;
-  text-decoration: none;
+  color: var(--primary);
 }
 
 a:hover {
-  text-decoration: underline;
+  color: var(--accent);
 }
