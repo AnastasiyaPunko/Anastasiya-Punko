@@ -4,12 +4,6 @@ title: Home
 ---
 
 <style>
-h1.site-title, header h1, .site-header, .header {
-  display: none !important;
-}
-</style>
-
-<style>
   
 :root {
   --primary: #002d72;
