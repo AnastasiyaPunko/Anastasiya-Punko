@@ -9,7 +9,7 @@ title: Home
   <a href="index.html">Home</a> |
   <a href="cv.html">CV</a> |
   <a href="ABSTRACT.html">Abstracts & Publications</a>
-  <a href="ABSTRACT.html">Certificates & Training</a>
+  <a href="CERTIFICATE.html">Certificates & Training</a>
 </div>
 
 <div class="main-content">
