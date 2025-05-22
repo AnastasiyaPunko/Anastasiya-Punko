@@ -61,7 +61,7 @@ h1, h2 {
 </div>
 
 <div class="main-content">
-    <h1>CERTIFICATES AND TRAINING</h1>
+    <h1>Certificates and Training</h1>
       <h2>2019</h2>
   <p>‣ Training in EPAM “Introduction to Python” Minsk, 15 – 28 October, 2019.</p>
   <p>‣ 4th NGS Data Analysis School “MGNGS School'19” Moscow, 28 October – 1 November 2019.</p>
