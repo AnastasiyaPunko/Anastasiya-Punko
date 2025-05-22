@@ -6,9 +6,9 @@ title: Home
 <link rel="stylesheet" href="style.css">
 
 <div class="nav">
-  <a href="index.md">Home</a> |
-  <a href="cv.md">CV</a> |
-  <a href="ABSTRACT.md">Abstract</a>
+  <a href="index.html">Home</a> |
+  <a href="cv.html">CV</a> |
+  <a href="ABSTRACT.html">Abstract</a>
 </div>
 
 <div class="main-content">
