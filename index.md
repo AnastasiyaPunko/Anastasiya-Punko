@@ -8,7 +8,7 @@ title: Home
 <div class="nav">
   <a href="index.html">Home</a> |
   <a href="cv.html">CV</a> |
-  <a href="ABSTRACT.html">Abstracts & Publications</a>
+  <a href="ABSTRACT.html">Abstracts & Publications</a> |
   <a href="CERTIFICATE.html">Certificates & Training</a>
 </div>
 
