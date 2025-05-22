@@ -30,7 +30,7 @@ myeloma.](ABSTRACTS/BCADD2024-proceedings-book_Punko.pdf) XXX Symposium on Bioin
 September 16-28, 2024).<br>
 ‣ Punko A., Volkova A. (2024) [Optimizing The CAR T-cell Therapy In Multiple Myeloma: Insights From Mathematical Modeling.](ABSTRACTS/InnoWeek2024.pdf) International scientific conference of young scientists «Science and Innovation»: collection of scientific papers. P: 57 – 58.  <br>
 ### 2025<br>
-‣ Punko A. (2025) Genetic Variants Associated with Recurrent Pregnancy Loss in Uzbek Women: A Genome-Wide Association Study. NGSchool2025: Sequencing Toolbox for Computational Biologists. P: 25. <br>
+‣ Punko A. (2025) [Genetic Variants Associated with Recurrent Pregnancy Loss in Uzbek Women: A Genome-Wide Association Study.](ABSTRACTS/2025%20NGSchool%20Book%20of%20Abstracts-2.pdf) NGSchool2025: Sequencing Toolbox for Computational Biologists. P: 25. <br> 
 ‣ A. Punko, A. Abdurakhimov, Y. Kapralova, D. Zakirova, A. Rakhmatullayev,G. Esonova, X. Meylikov, A. Abdullaev, D. Dalimova, S. Turdikulova. (2025) Identifying genetic variants associated with recurrent pregnancy loss in the Uzbek population. ESHG Conference (In press). <br>
 ‣ A. Abdullaev, A. Punko, A. Rakhmatullayev, Z. Reyimbergenova, E. Tsay, V. Tsoy, D. Dalimova, S. Turdikulova. (2025) Exploring the association between genetic variants and the risk of developing type 2 diabetes in Uzbekistan. ESHG Conference (In press). <br>
 ‣ D. Zakirova, F. Khonboev, D. Dalimova, G. Abdullaeva, F. Takhirova, A. Punko, N. Alikhanova, S. Turdikulova, A. Abdullaev. (2025) Identification of Type 2 Diabetes-Associated Polymorphisms in DOCK7, ABCG8, UBE2E2, and SYN2 Genes in the Uzbek Population. ESHG Conference (In press). <br>
