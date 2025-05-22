@@ -99,17 +99,17 @@ September 16-28, 2024).</p>
   <h2>2025</h2>
   <p>‣ Punko A. (2025) <a href="ABSTRACTS/2025%20NGSchool%20Book%20of%20Abstracts-2.pdf" target="_blank"> Genetic Variants Associated with Recurrent Pregnancy Loss in Uzbek Women: A Genome-Wide Association Study.</a> NGSchool2025: Sequencing Toolbox for Computational Biologists. P: 25. </p>
   <p>‣ A. Punko, A. Abdurakhimov, Y. Kapralova, D. Zakirova, A. Rakhmatullayev,G. Esonova, X. Meylikov, A. Abdullaev, D. Dalimova, S. Turdikulova. (2025) <a href="ABSTRACTS/ESHG.pdf" target="_blank">Identifying genetic variants associated with recurrent pregnancy loss in the Uzbek population.</a> ESHG Conference (In press). </p>
-  <p>‣ A. Abdullaev, A. Punko, A. Rakhmatullayev, Z. Reyimbergenova, E. Tsay, V. Tsoy, D. Dalimova, S. Turdikulova. (2025) <a href="ABSTRACTS/ESHG2.pdf" target="_blank">Exploring the association between genetic variants and the risk of developing type 2 diabetes in Uzbekistan./a> ESHG Conference (In press). </p>
+  <p>‣ A. Abdullaev, A. Punko, A. Rakhmatullayev, Z. Reyimbergenova, E. Tsay, V. Tsoy, D. Dalimova, S. Turdikulova. (2025) <a href="ABSTRACTS/ESHG2.pdf" target="_blank">Exploring the association between genetic variants and the risk of developing type 2 diabetes in Uzbekistan.</a> ESHG Conference (In press). </p>
   <p>‣ D. Zakirova, F. Khonboev, D. Dalimova, G. Abdullaeva, F. Takhirova, A. Punko, N. Alikhanova, S. Turdikulova, A. Abdullaev. (2025) Identification of Type 2 Diabetes-Associated Polymorphisms in DOCK7, ABCG8, UBE2E2, and SYN2 Genes in the Uzbek Population. ESHG Conference (In press).</p>
 
   <h1>📚 Publications</h1>
     <h2>2019</h2>
     <p>‣ Aleinikova O., Naumovich M., Barovskaya Y., Vashkevich E., Matveenko M., Migas A., Isaikina Y.,
-Mishkova O., Punko A., Shman T. (2019) <a href="PUBLICATIONS/Aleinikova_2019.pdf" target="_blank">Natural Killer Cells in Immunotherapy of Hematological Malignancies in Children./a> Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.</p>
+Mishkova O., Punko A., Shman T. (2019) <a href="PUBLICATIONS/Aleinikova_2019.pdf" target="_blank">Natural Killer Cells in Immunotherapy of Hematological Malignancies in Children.</a> Hematology. Transfusiology. Eastern Europe. Vol.5, No 4. Р:377-386.</p>
 
   <h2>2021</h2>
   <p>‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
-Meleshko A., Konoplya N. (2021) <a href="PUBLICATIONS/Aleinikova_2021.pdf" target="_blank">The first experience of using locally manufactured CAR-T cells in patients with relapsed/refractory acute lymphoblastic leukemia in Belarus./a> Pediatric Hematology/
+Meleshko A., Konoplya N. (2021) <a href="PUBLICATIONS/Aleinikova_2021.pdf" target="_blank">The first experience of using locally manufactured CAR-T cells in patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.</a> Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.</p>
 </div>
 
