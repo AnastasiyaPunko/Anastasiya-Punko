@@ -78,24 +78,24 @@ a:hover {
   <p><a href="CV_Punko_v3.pdf" target="_blank"><strong>📥 Download CV (PDF)</strong></a></p>
 
 <h2>EDUCATION</h2>
- <p>HIGHER SCHOOL OF ECONOMICS, MOSCOW. MASTER’S DEGREE, 2022 – 2024.
+ <p style="text-align: center;">HIGHER SCHOOL OF ECONOMICS, MOSCOW. MASTER’S DEGREE, 2022 – 2024.
 DATA ANALYSIS IN BIOLOGY AND MEDICINE</p>
- <p>BELARUSIAN STATE UNIVERSITY, MINSK. BACHELOR DEGREE, 2014 – 2018.
+ <p style="text-align: center;">BELARUSIAN STATE UNIVERSITY, MINSK. BACHELOR DEGREE, 2014 – 2018.
 BIOLOGICAL FACULTY, SPECIALIZATION: GENETICS</p>
 
 
   <h2>EMPLOYMENT</h2>
- <p>RESEARCHER, CENTER FOR ADVANCED TECHNOLOGIES ; TASHKENT. SEP2024 — JUN2025
+ <p style="text-align: center;">RESEARCHER, CENTER FOR ADVANCED TECHNOLOGIES; TASHKENT. SEP2024 — JUN2025
 Performing statistical analysis of genome wide association studies (GWAS); Used R, bash for data
 preparation and GWAS software for SNP analysis; Performed design, implementation, data
 management, and statistical analysis of clinical research studies; Data processing and plotting
 using R programming language.</p>
- <p>RESEARCHER, MODELING & SIMULATION DECISIONS; MOSCOW. JAN 2023 – JUN 2024
+ <p style="text-align: center;">RESEARCHER, MODELING & SIMULATION DECISIONS; MOSCOW. JAN 2023 – JUN 2024
 Mathematical modelling of immunotherapy; Compilation of a database of published experiments;
 Reproduction of a mathematical model; Calibration of the model; Model simulation. Data
 processing and plotting using R programming language.</p>
- <p>MOLECULAR DIAGNOSTIC SPECIALIST, TOSILENA; MINSK. OCT2021 – DEC2021</p>
- <p>JUNIOR RESEARCHER, BELARUSIAN PEDIATRIC CENTER OF ONCOLOGY, HEMATOLOGY AND IMMUNOLOGY; MINSK. APR 2017 – SEP 2022
+ <p style="text-align: center;">MOLECULAR DIAGNOSTIC SPECIALIST, TOSILENA; MINSK. OCT2021 – DEC2021</p>
+ <p style="text-align: center;">JUNIOR RESEARCHER, BELARUSIAN PEDIATRIC CENTER OF ONCOLOGY, HEMATOLOGY AND IMMUNOLOGY; MINSK. APR 2017 – SEP 2022
 Performing NGS and statistically analyzing the data with bioinformatics tools; Designing
 experiments, collecting data, working with control sets; Diagnosis of patients by various molecular-
 genetic methods: chimerism; minimal residual disease; diagnostics of brain tumors using the NGS
