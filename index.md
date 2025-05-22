@@ -63,6 +63,9 @@ h1, h2 {
   <h1> Anastasiya Punko </h1>
 
   <p>Hi, I’m <strong>Anastasiya Punko</strong></p>
+  <p>I have a Master’s degree in Data Analysis in Biology and Medicine with a background in mathematical modeling and data science. During my studies, I focused on modeling biological systems, and after graduation, I transitioned to hands-on work with GWAS datasets.</p>
+
+<p>I’m passionate about applying data-driven methods to uncover insights in biology and medicine, and I’m currently looking for opportunities in bioinformatics projects — especially those involving genomics, personalized medicine, or health data analytics.</p>
 
   <p>Explore my work, download my CV, or view my latest research abstracts and projects.</p>
 
