@@ -65,15 +65,9 @@ h1, h2 {
 </div>
 
 <div class="main-content">
-  <h1>👋 Welcome to My Bioinformatics Portfolio</h1>
+  <h1> Anastasiya Punko </h1>
 
-  <p>Hi, I’m <strong>Anastasiya Punko</strong>, a bioinformatician passionate about:</p>
-
-  <ul>
-    <li>Genome-wide association studies (GWAS)</li>
-    <li>NGS data analysis</li>
-    <li>Statistical modeling in medicine</li>
-  </ul>
+  <p>Hi, I’m <strong>Anastasiya Punko</strong></p>
 
   <p>Explore my work, download my CV, or view my latest research abstracts and projects.</p>
 
