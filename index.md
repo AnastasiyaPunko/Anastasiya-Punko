@@ -23,6 +23,7 @@ body {
   background-color: var(--background);
   padding: 20px;
   text-align: center;
+  font-weight: bold;
   border-bottom: 1px solid #ddd;
   font-size: 18px;
 }
@@ -30,10 +31,10 @@ body {
 .nav a {
   color: var(--primary);
   text-decoration: none;
-  margin: 0 16px;
+  margin: 0 20px;
   font-weight: 500;
 }
-
+  
 .nav a:hover {
   text-decoration: underline;
 }
