@@ -77,20 +77,41 @@ a:hover {
 
   <p><a href="CV_Punko_v3.pdf" target="_blank"><strong>📥 Download CV (PDF)</strong></a></p>
 
-  <h2>🔬 Expertise & Interests</h2>
-  <ul>
-    <li>Genome-wide association studies (GWAS)</li>
-    <li>NGS data analysis and interpretation</li>
-    <li>Biostatistics and survival analysis</li>
-    <li>Mathematical modeling in medicine (PKPD, QSP)</li>
-    <li>Molecular diagnostics (PCR, qPCR, Sanger)</li>
-  </ul>
+<h2>EDUCATION</h2>
+ <p>HIGHER SCHOOL OF ECONOMICS, MOSCOW. MASTER’S DEGREE, 2022 – 2024.
+DATA ANALYSIS IN BIOLOGY AND MEDICINE</p>
+ <p>BELARUSIAN STATE UNIVERSITY, MINSK. BACHELOR DEGREE, 2014 – 2018.
+BIOLOGICAL FACULTY, SPECIALIZATION: GENETICS</p>
 
-  <h2>💼 Experience Snapshot</h2>
+
+  <h2>EMPLOYMENT</h2>
+ <p>RESEARCHER, CENTER FOR ADVANCED TECHNOLOGIES ; TASHKENT. SEP2024 — JUN2025
+Performing statistical analysis of genome wide association studies (GWAS); Used R, bash for data
+preparation and GWAS software for SNP analysis; Performed design, implementation, data
+management, and statistical analysis of clinical research studies; Data processing and plotting
+using R programming language.</p>
+ <p>RESEARCHER, MODELING & SIMULATION DECISIONS; MOSCOW. JAN 2023 – JUN 2024
+Mathematical modelling of immunotherapy; Compilation of a database of published experiments;
+Reproduction of a mathematical model; Calibration of the model; Model simulation. Data
+processing and plotting using R programming language.</p>
+ <p>MOLECULAR DIAGNOSTIC SPECIALIST, TOSILENA; MINSK. OCT2021 – DEC2021</p>
+ <p>JUNIOR RESEARCHER, BELARUSIAN PEDIATRIC CENTER OF ONCOLOGY, HEMATOLOGY AND IMMUNOLOGY; MINSK. APR 2017 – SEP 2022
+Performing NGS and statistically analyzing the data with bioinformatics tools; Designing
+experiments, collecting data, working with control sets; Diagnosis of patients by various molecular-
+genetic methods: chimerism; minimal residual disease; diagnostics of brain tumors using the NGS
+panel; Writing and reporting results.</p>
+
+
+
+  <h2>SKILLS</h2>
   <ul>
-    <li><strong>Center for Advanced Technologies (Tashkent):</strong> GWAS analysis, clinical study statistics</li>
-    <li><strong>Modeling & Simulation Decisions (Moscow):</strong> Immunotherapy modeling, database design</li>
-    <li><strong>Belarusian Pediatric Oncology Center:</strong> NGS, MRD detection, molecular diagnostics</li>
+    <li>Bioinformatics: GWAS, NGS data analysis, SNP analysis</li>
+    <li>Programming & Data Analysis: R, Bash, Python</li>
+    <li>Mathematical Modeling: Monolix, PKPD, QSP</li>
+    <li>Machine Learning: Model development, dashboards, analytics systems</li>
+    <li>Statistics</li>
+    <li>Molecular Techniques: PCR, primer/probe design, Sanger & NGS sequencing</li>
+    
   </ul>
 
   <p>🔗 See more on <a href="https://www.linkedin.com/in/anastasiya-punko-82616417a" target="_blank">LinkedIn</a> or <a href="https://github.com/AnastasiyaPunko" target="_blank">GitHub</a>.</p>
