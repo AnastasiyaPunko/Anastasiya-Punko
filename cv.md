@@ -3,6 +3,5 @@ layout: default
 title: CV
 ---
 
-# Curriculum Vitae
-
-CV_Punko_v3.pdf
+# **This is my Curriculum vitae:** <br>
+<br>[Curriculum Vitae](CV_Punko_v3.pdf) <br>
