@@ -3,7 +3,58 @@ layout: default
 title: Home
 ---
 
-<link rel="stylesheet" href="style.css">
+<style>
+:root {
+  --primary: #002d72;
+  --secondary: #e1ecf4;
+  --accent: #fcb900;
+  --background: #ffffff;
+  --text: #222222;
+  --highlight: #d9edc2;
+}
+
+body {
+  background-color: var(--secondary);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: var(--text);
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: var(--primary);
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 3px solid var(--accent);
+  border-radius: 0 0 12px 12px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+.nav a:hover {
+  color: var(--accent);
+}
+
+.main-content {
+  padding: 40px;
+  max-width: 800px;
+  margin: 40px auto;
+  background-color: var(--background);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  color: var(--primary);
+}
+</style>
 
 <div class="nav">
   <a href="index.html">Home</a> |
