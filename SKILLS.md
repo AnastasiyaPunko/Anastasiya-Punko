@@ -73,15 +73,15 @@ h1, h2 {
 
   <h2>Next Generation Sequencing Analysis</h2>
   <p>BWA, Bowtie2, SAMtools, GATK, SnpEff, ANNOVAR</p>
-  
-  <h2>Next Generation Sequencing Analysis</h2>
-  <p>BWA, Bowtie2, SAMtools, GATK, SnpEff, ANNOVAR</p>
 
   <h2>Single Cell Genomics</h2>
   <p>Seurat</p>
   
   <h2>Machine Learning</h2>
   <p>Scikit-learn</p>
+  
+  <h2>Genomic Databases and Tools</h2>
+  <p>NCBI, Ensembl, UCSC, IGV, dbSNP, ClinVar, GnomAD</p>
   
 </div>
 
