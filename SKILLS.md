@@ -66,10 +66,22 @@ h1, h2 {
   <p>R, Python, Bash </p>
   
   <h2>R Packages</h2>
-  <p>ggplot2</p>
+  <p>ggplot2, tidyverse, SNPassoc, forestploter</p>
+  
+  <h2>GWAS Analysis</h2>
+  <p>Plink</p>
 
-  <h2>Genomic Databases and Tools</h2>
-  <p>NCBI, Ensembl, UCSC, IGV, dbSNP, ClinVar, GnomAD </p>
+  <h2>Next Generation Sequencing Analysis</h2>
+  <p>BWA, Bowtie2, SAMtools, GATK, SnpEff, ANNOVAR</p>
+  
+  <h2>Next Generation Sequencing Analysis</h2>
+  <p>BWA, Bowtie2, SAMtools, GATK, SnpEff, ANNOVAR</p>
+
+  <h2>Single Cell Genomics</h2>
+  <p>Seurat</p>
+  
+  <h2>Machine Learning</h2>
+  <p>Scikit-learn</p>
   
 </div>
 
