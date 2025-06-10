@@ -57,7 +57,7 @@ h1, h2 {
   <a href="cv.html">CV</a> |
   <a href="ABSTRACT.html">Abstracts & Publications</a> |
   <a href="CERTIFICATE.html">Certificates & Training</a>|
-  <a href="SKILLS.html">SKILLSg</a>
+  <a href="SKILLS.html">SKILLS</a>
 </div>
 
 <div class="main-content">
