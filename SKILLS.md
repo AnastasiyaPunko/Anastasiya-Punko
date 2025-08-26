@@ -71,7 +71,7 @@ h1, h2 {
   <h2>Python Packages</h2>
   <p>pandas, matplotlib.pyplot, seaborn</p>
 
-  <h2>Data visualization products</h2>
+  <h2>Data visualization</h2>
   <p>Tableau, DataLens</p>
 
   <h2>Machine Learning</h2>
