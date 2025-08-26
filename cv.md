@@ -95,11 +95,11 @@ panel; Writing and reporting results.</p>
 
   <h2>SKILLS</h2>
   <ul>
-    <li>Bioinformatics: GWAS, NGS data analysis, SNP analysis</li>
     <li>Programming & Data Analysis: R, Bash, Python</li>
-    <li>Mathematical Modeling: Monolix, PKPD, QSP</li>
     <li>Machine Learning: Model development, dashboards, analytics systems</li>
     <li>Statistics</li>
+    <li>Bioinformatics: GWAS, NGS data analysis, SNP analysis</li>
+    <li>Mathematical Modeling: Monolix, PKPD, QSP</li>
     <li>Molecular Techniques: PCR, primer/probe design, Sanger & NGS sequencing</li>
     
   </ul>
