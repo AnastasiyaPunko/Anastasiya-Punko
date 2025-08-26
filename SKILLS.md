@@ -67,7 +67,16 @@ h1, h2 {
   
   <h2>R Packages</h2>
   <p>ggplot2, tidyverse, SNPassoc, forestploter</p>
-  
+
+  <h2>Python Packages</h2>
+  <p>pandas, matplotlib.pyplot, seaborn</p>
+
+  <h2>Data visualization products</h2>
+  <p>Tableau, DataLens</p>
+
+  <h2>Machine Learning</h2>
+  <p>Scikit-learn, Google Colab, Jupyter Notebook</p>
+
   <h2>GWAS Analysis</h2>
   <p>Plink, ADMIXTURE, TOPMed/Michigan Imputation Server</p>
 
@@ -76,10 +85,7 @@ h1, h2 {
 
   <h2>Single Cell Genomics</h2>
   <p>Seurat</p>
-  
-  <h2>Machine Learning</h2>
-  <p>Scikit-learn, Google Colab, Jupyter Notebook</p>
-  
+
   <h2>Genomic Databases and Tools</h2>
   <p>NCBI, Ensembl, UCSC, IGV, dbSNP, ClinVar, GnomAD</p>
   
