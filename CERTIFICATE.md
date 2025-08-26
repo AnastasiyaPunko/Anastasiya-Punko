@@ -73,6 +73,7 @@ Introduction to Programming with Python”.</p>
   <p>‣ School of Mathematical Modeling in Pharmaceutics. Moscow, December 5-9, 2022.</p>
       <h2>2023</h2>
   <p>‣ <a href="CERTIFICATES%20AND%20TRAINING/Analysis_genomic_variant.pdf" target="_blank"> Intensive course "Analysis of bacterial genomic variants"</a> Moscow, February 24-26, 2023.</p>
+  <p>‣ Courses in DataCamp platform: <a href="Dashboard/certificate/certificate.pdf" target="_blank"> "Connecting Data in Tableau"</a>, <a href="Dashboard/certificate/certificate2.pdf" target="_blank"> "Introduction to Tableau"</a>,   </p>
   
   <h2>2024</h2>
   <p>‣ Winter school on Analytics and Data Science. Moscow, February 3-4, 2024.</p>
