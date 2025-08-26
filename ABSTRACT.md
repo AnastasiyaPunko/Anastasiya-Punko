@@ -100,5 +100,8 @@ Mishkova O., Punko A., Shman T. (2019) <a href="PUBLICATIONS/Aleinikova_2019.pdf
   <p>‣ Aleinikova O., Migas A., Stolyarova E., Punko A., Movchan L., Klych A., Mishkova O., Hill A.,
 Meleshko A., Konoplya N. (2021) <a href="PUBLICATIONS/Aleinikova_2021.pdf" target="_blank">The first experience of using locally manufactured CAR-T cells in patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.</a> Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.</p>
+
+<h2>2025</h2>
+  <p>‣ Shman T, Naumovich M, Vashkevich K, Migas A, Matveyenka M, Punko A, Lasyukov E, Aleinikova O. (2025) Results of a pilot study on immunotherapy with ex vivo expanded haploidentical natural killer cells for children with leukemia. Cell Ther Transplant. Vol.14 (2). P:25–34. </p>
 </div>
 
