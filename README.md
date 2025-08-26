@@ -45,6 +45,7 @@ Malignancies in Children.](PUBLICATIONS/Aleinikova_2019.pdf) Hematology. Transfu
 Meleshko A., Konoplya N. (2021) [The first experience of using locally manufactured CAR-T cells in
 patients with relapsed/refractory acute lymphoblastic leukemia in Belarus.](PUBLICATIONS/Aleinikova_2021.pdf) Pediatric Hematology/
 Oncology and Immunopathology. Vol.20 (2). P: 30–38.<br>
+‣ Shman T., Naumovich M., Vashkevich K., Migas A., Matveyenka M., Punko A., Lasyukov E., Aleinikova O. (2025) [Results of a pilot study on immunotherapy with ex vivo expanded haploidentical natural killer cells for children with leukemia.](https://cttjournal.com/article/results-of-a-pilot-study-on-immunotherapy-with-ex-vivo-expanded-haploidentical-natural-killer-cells) Cellular Therapy and Transplantation. Vol.14 (2). P: 25–34.<br>
 
 # **CERTIFICATES AND TRAINING** <br>
 ### 2019<br>
