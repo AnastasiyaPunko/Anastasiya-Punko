@@ -84,6 +84,6 @@ Introduction to Programming with Python”.</p>
   <p>‣ <a href="CERTIFICATES%20AND%20TRAINING/Surrey_GWAS.pdf" target="_blank"> Introduction to the Statistical Analysis of Genome-wide Association Studies</a> Virtual, January 27-31, 2025.</p>
   <p>‣ <a href="CERTIFICATES%20AND%20TRAINING/NGSchool2025_certificate_Anastasiya_Punko.pdf" target="_blank"> NGSchool2025: Sequencing Toolbox for Computational Biologists</a> Poland, Otwock, March 22–30, 2025.</p>
   <p>‣ <a href="CERTIFICATES%20AND%20TRAINING/ESHG_2025.pdf" target="_blank"> European Human Genetics Conference 2025 </a> May 24–27, 2025.</p>
-   <p>‣ Courses in STEPIK platform: <a href="CERTIFICATES%20AND%20TRAINING/stepik-certificate-63054-6ae9589-3.pdf" target="_blank"> “Interactive SQL Simulator”. </a> September, 2025 </p>
+   <p>‣ Course in STEPIK platform: <a href="CERTIFICATES%20AND%20TRAINING/stepik-certificate-63054-6ae9589-3.pdf" target="_blank"> Interactive SQL Simulator. </a> September, 2025 </p>
 
 </div>
