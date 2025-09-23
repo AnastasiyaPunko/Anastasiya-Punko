@@ -65,7 +65,7 @@ h1, h2 {
 
   <p>You can download my full CV as a PDF:</p>
 
-  <p><a href="CV_Punko_v3.pdf" target="_blank"><strong>📥 Download CV (PDF)</strong></a></p>
+  <p><a href="CV_Punko_v4.pdf" target="_blank"><strong>📥 Download CV (PDF)</strong></a></p>
 
 <h2>EDUCATION</h2>
  <p style="text-align: center;">HIGHER SCHOOL OF ECONOMICS, MOSCOW. MASTER’S DEGREE, 2022 – 2024.<br>
