@@ -63,7 +63,7 @@ h1, h2 {
 <div class="main-content">
   <h1>📚 Skills Summary</h1>
   <h2>Programming Languages</h2>
-  <p>R, Python, Bash </p>
+  <p>R, Python, Bash, SQL </p>
   
   <h2>R Packages</h2>
   <p>ggplot2, tidyverse, SNPassoc, forestploter</p>
