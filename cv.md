@@ -95,7 +95,7 @@ panel; Writing and reporting results.</p>
 
   <h2>SKILLS</h2>
   <ul>
-    <li>Programming & Data Analysis: R, Bash, Python</li>
+    <li>Programming & Data Analysis: R, Bash, Python, SQL </li>
     <li>Machine Learning: Model development, dashboards, analytics systems</li>
     <li>Statistics</li>
     <li>Bioinformatics: GWAS, NGS data analysis, SNP analysis</li>
